@@ -13,10 +13,10 @@
 
 
 <a href="https://github.com/nobu-ryo/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=nobu-ryo&count_private=true&show_icons=true" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=nobu-ryo&count_private=true&show_icons=true&theme=darcula" />
 </a>
 <a href="https://github.com/nobu-ryo/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobu-ryo&hide=jupyter%20notebook,shaderlab,tex,c%23&langs_count=5" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobu-ryo&hide=jupyter%20notebook,shaderlab,tex,c%23&langs_count=5&theme=darcula" />
 </a>
 
 <!--

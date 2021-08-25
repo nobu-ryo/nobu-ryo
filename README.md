@@ -1,6 +1,15 @@
-### Hi there 👋
+# 🎊Welcome to nobu-ryo's github page!
 
-##　💻projects
+## 🅛 language
+ 
+> - ***Python***  
+> - PHP  
+> - GAS(javascript)
+> - java  
+> - C/C++
+ 
+## 🅟 projects
+
 - add a new project
 
 <!--

@@ -1,4 +1,4 @@
-# 🎊Welcome to nobu-ryo's github page!
+# 🎊Welcome to nobu_ryo's github page!
 
 ## 🅛 language
  

@@ -11,7 +11,7 @@
 > - Sentiment-Analysis
 > - MiNERVA(Joint development)
 
-
+## 🧩🅓 Data
 <a href="https://github.com/nobu-ryo/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=nobu-ryo&count_private=true&show_icons=true&theme=darcula" />
 </a>

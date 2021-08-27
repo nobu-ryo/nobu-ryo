@@ -1,17 +1,17 @@
 # 🎊Welcome to nobu_ryo's github page!
 
-## 🧩🅛 Languages
+## 🧩 🅛 Languages
 > - **Python**  
 > - PHP  
 > - GAS(javascript)
 > - java  
 > - C/C++
  
-## 🧩🅟 Projects
+## 🧩 🅟 Projects
 > - Sentiment-Analysis
 > - MiNERVA(Joint development)
 
-## 🧩🅓 Data
+## 🧩 🅓 Data
 <a href="https://github.com/nobu-ryo/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=nobu-ryo&count_private=true&show_icons=true&theme=darcula" />
 </a>

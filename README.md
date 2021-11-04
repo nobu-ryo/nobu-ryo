@@ -3,7 +3,7 @@
 ## 🧩 🅛 Languages
 > - **Python**  
 > - PHP  
-> - GAS(javascript)
+> - javascript(GAS)
 > - java  
 > - C/C++
  
